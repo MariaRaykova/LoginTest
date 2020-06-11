@@ -1,0 +1,6 @@
+actor: Tester
+modules:
+   enabled:
+     - WebDriver:
+         url: 'https://profile.dir.bg/login'
+         browser: 'chrome'
